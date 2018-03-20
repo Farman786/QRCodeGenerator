@@ -9,7 +9,7 @@ Awesome QR Code Generator with custom logo
 
 
 
-Gradle
-dependencies {
-    compile 'com.google.zxing:core:3.2.1'
-}
+<br>Gradle</br>
+<br>dependencies {</br>
+    <br>compile 'com.google.zxing:core:3.2.1'</br>
+<br>}</br>
