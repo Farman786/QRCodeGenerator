@@ -2,10 +2,10 @@
 
 Awesome QR Code Generator with custom logo
 
-![Screen shot](<p align="center">
+<p align="center">
   <img src="https://github.com/Farman786/QRCodeGenerator/blob/master/app/src/main/java/com/example/farman/screenshot/QRCode_Screen.gif" width="350"/>
  
-</p>)
+</p>
 
 
 
