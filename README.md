@@ -1,6 +1,6 @@
 # QRCodeGenerator
 Awesome QR Code Generator with custom logo
-![Optional Text](QRCodeGenerator/app/src/main/java/com/example/farman/screenshot/QRCode_Screen.png)
+![Screen shot](QRCodeGenerator/app/src/main/java/com/example/farman/screenshot/QRCode_Screen.png)
 Gradle
 
 dependencies {
