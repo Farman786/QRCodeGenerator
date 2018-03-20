@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         ImageView myImage=(ImageView) findViewById(R.id.imageView);
-        String value="upi://pay?pa=adityapawar@birla&pn=AMAZ5ON&tid=ABPBM150246006971353&mc=0000&tr=76543&am=123&cu=INR&mam=123";
+        String value="Your String Here";
 
        /* VCard vCard=new VCard("Demo").setName("Farman").setAddress("Gurgaon").setPhoneNumber("7860923075");
         Bitmap myBitmap= QRCode.from(vCard).bitmap();
